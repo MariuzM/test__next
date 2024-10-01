@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-	output: {
-		chunkFormat: false,
-	},
-}
+const nextConfig = {}
 
 export default nextConfig
